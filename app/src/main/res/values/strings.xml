@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Digi Kala Profile</string>
+    <string name="app_name">DigiKala Profile</string>
+    <string name="subject">فهرست</string>
+    <string name="name">محمدرضا فکری</string>
+    <string name="phone_number">09147031237</string>
+    <string name="settings">Settings</string>
+    <string name="notification">Notification</string>
+    <string name="wallet">Wallet</string>
+    <string name="turn_on_digikala">Turn on DigiKala</string>
 </resources>
